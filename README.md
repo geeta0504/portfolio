@@ -117,14 +117,3 @@ portfolio/
 * **GitHub:** [https://github.com/geeta0504](https://github.com/geeta0504)
 * **Portfolio:** [https://geeta0504.github.io/portfolio](https://geeta0504.github.io/portfolio)
 
-
-- Your portfolio already shows **range** (ECE + ML + Web). That’s good.
-- Next step to stand out:  
-  👉 Add **results, metrics, or screenshots** to each project repo.  
-- One **strong, deeply explained project** > five shallow ones.
-
-If you want, I can:
-- Rewrite this README to sound **more ML-focused or core-ECE-focused**
-- Add **resume-aligned bullets**
-- Create **individual README files for each project**
-```
