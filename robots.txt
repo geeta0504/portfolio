@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+Sitemap: https://geeta0504.github.io/sitemap.xml
+
+# Replace `https://yourdomain.com/` with your real site URL before publishing.
